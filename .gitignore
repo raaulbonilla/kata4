@@ -41,3 +41,7 @@ build/
 .DS_Store
 
 *.log
+tmp/
+temp/
+*.tmp
+*.temp
